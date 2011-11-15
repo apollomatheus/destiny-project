@@ -1,22 +1,22 @@
 ##3 .::Novidade::.
 
-##0 Aguarde pois EM BREVE os jogadores Voces  tem  a  oportunidade de upar muito mais rápido e chegar ate o nivel máximo (nivel 255)!!!
+##0 Aguarde pois EM BREVE os jogadores Voces  tem  a  oportunidade de upar muito mais rapido e chegar ate o nivel maximo (nivel 255)!!!
 ##0 Fique  Com Nosco Aguarde ! Novos Mapas Novas Quest !
 
-##3 .::Atualização::.
+##3 .::Atualizacao::.
 
 ##0 Agora os jogadores tem a oportunidade de upar muito mais niveis do que antes.
 ##0 Aproveite!
 
-##3 .::Atualização::.
+##3 .::Atualizacao::.
  
 ##0 Modificado mapa 001-1.
  
-##3 .::Atualização::. 
+##3 .::Atualizacao::. 
  
 ##0 Mapa 009-1 reflorestado, quem ficar preso envie um @wgm Socorro!
  
-##3 .::Atualização::.
+##3 .::Atualizacao::.
  
 ##0 Update chega com:
  
@@ -30,7 +30,7 @@
 ##0 TMW-VIP: servidor reconstruido a partir do TMW-VIP 
 ##0 com os Administradores Berguinho e HeavyDeath.
  
-##2 Administração
+##2 Administracao
 
 ##2 Berguinho  
 ##2 HeavyDeath
