@@ -9,7 +9,7 @@
 
 Primeiro você precisa dos Requerimentos. 
  Requerimento:
-  * Envie um exemplo de script NPC,pixelArt ou outro,para o email:matheuslds1@live.com
+  * Envie um exemplo de script NPC,pixelArt ou outro,para o email:*matheuslds1@live.com ou berg-1213@hotmail.com* 
   * Enviar os horarios disponiveis no server(*Enviar junto com o formulario*).
   * Enviar o seguinte formulario:
 || *Requerimento* || *Resposta* || 
