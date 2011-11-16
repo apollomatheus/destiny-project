@@ -20,9 +20,10 @@ Primeiro você precisa dos Requerimentos.
 {{{
 
 }}}
-ATENCIOSAMENTE:
-Administradores:
-*berg-1213@hotmail.com*
-*matheuslds1@live.com*
-Developer
-*danilom.junior@hotmail.com*
+
+*ATENCIOSAMENTE:*
+<p>Administradores:</p>
+
+<p>*berg-1213@hotmail.com*</p>
+<p>*matheuslds1@live.com*</p>
+<p>*danilom.junior@hotmail.com*</p>
