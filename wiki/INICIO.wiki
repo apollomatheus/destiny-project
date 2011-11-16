@@ -20,5 +20,9 @@ Primeiro você precisa dos Requerimentos.
 {{{
 
 }}}
-
-</code>
+ATENCIOSAMENTE:
+Administradores:
+*berg-1213@hotmail.com*
+*matheuslds1@live.com*
+Developer
+*danilom.junior@hotmail.com*
