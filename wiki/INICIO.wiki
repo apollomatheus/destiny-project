@@ -27,3 +27,4 @@ Primeiro você precisa dos Requerimentos.
 <p>*berg-1213@hotmail.com*</p>
 <p>*matheuslds1@live.com*</p>
 <p>*danilom.junior@hotmail.com*</p>
+<g:plusone size="medium"></g:plusone>
