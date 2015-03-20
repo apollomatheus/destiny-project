@@ -1,0 +1,28 @@
+# CANDIDATO A DEV #
+
+**Bom estamos fazendo um teste para developer**.
+
+
+# Detalhes #
+
+Primeiro você precisa dos Requerimentos.
+> Requerimento:
+    * Envie um exemplo de script NPC,pixelArt ou outro,para o email:**matheuslds1@live.com ou berg-1213@hotmail.com**
+    * Enviar os horarios disponiveis no server(**Enviar junto com o formulario**).
+    * Enviar o seguinte formulario:
+| **Requerimento** | **Resposta** |
+|:-----------------|:-------------|
+| Nome: |  |
+| Sobrenome: |  |
+| Email: |  |
+| Horarios para teste: |  |
+```
+
+```
+
+**ATENCIOSAMENTE:**
+<p>Administradores:</p>
+
+<p><b>berg-1213@hotmail.com</b></p>
+<p><b>matheuslds1@live.com</b></p>
+<p><b>danilom.junior@hotmail.com</b></p>
